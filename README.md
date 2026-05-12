@@ -79,7 +79,8 @@ Practiced full Tier 1/2 ticket workflow:
 
 ### Resolved Ticket
 
-![Resolved](screenshots/08-ticket-resolved.png)
+![Resolved](screenshots/08-ticket-closed.png)
+
 
 ## 🛠️ Technical Skills Demonstrated
 
