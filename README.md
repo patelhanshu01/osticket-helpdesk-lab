@@ -59,7 +59,7 @@ Practiced full Tier 1/2 ticket workflow:
 
 ### Admin Dashboard
 
-![Uploading 03-admin-panel-dashboard.png…]()
+![Admin Panel](screenshots/03-admin-panel-dashboard.png)
 
 ### Departments
 
@@ -80,7 +80,6 @@ Practiced full Tier 1/2 ticket workflow:
 ### Resolved Ticket
 
 ![Resolved](screenshots/08-ticket-closed.png)
-
 
 ## 🛠️ Technical Skills Demonstrated
 
